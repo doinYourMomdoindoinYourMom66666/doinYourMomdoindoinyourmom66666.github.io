@@ -1,0 +1,22 @@
+body {
+    background-color: purple;
+}
+
+h1, p {
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+h1 {
+    margin-bottom: -5px;
+}
+
+.left-container {
+    float: left;
+    width: 30%;
+    height: 95vh;
+    border: 2px solid green;
+    border-radius: 10px;
+    background-color: lightcoral;
+    margin-right: 20px;
+}
